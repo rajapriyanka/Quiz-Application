@@ -13,15 +13,23 @@ A **full-stack quiz application** built with **AngularJS (Frontend), Spring Boot
 ---
 
 ## 🖼️ Screenshots
-![Screenshot (401)](https://github.com/user-attachments/assets/59ae295c-8474-45e9-af91-4782490f343b)
-![Screenshot (402)](https://github.com/user-attachments/assets/122131bb-b562-4945-b1f3-08871d0c8b4a)
-![Screenshot (403)](https://github.com/user-attachments/assets/f5f6cd84-61d6-4af6-bbb0-fb973968901a)
-![Screenshot (404)](https://github.com/user-attachments/assets/d0795db8-8449-4ae7-bf9e-ae5a75eace61)
-![Screenshot (405)](https://github.com/user-attachments/assets/e6cc9b0d-9646-4649-8ace-00f4dc301f44)
-![Screenshot (406)](https://github.com/user-attachments/assets/e696c5ff-b378-4478-9ef6-cc2ed14c0544)
-![Screenshot (407)](https://github.com/user-attachments/assets/5db62799-7833-4cc2-b0ef-d5f2cbfedb76)
-![Screenshot (408)](https://github.com/user-attachments/assets/5ad7c796-fd5d-49d2-b20e-6e3aa64f8779)
-![Screenshot (409)](https://github.com/user-attachments/assets/0ccc2a54-9dd2-4507-b6f3-c9594bb39c05)
+![Screenshot (401)](https://github.com/user-attachments/assets/e73fe4ec-ea8b-44bf-8abf-f52ffd525439)
+
+![Screenshot (402)](https://github.com/user-attachments/assets/1a7d28a5-49e2-4d9f-80a4-dee6ab956f97)
+
+![Screenshot (403)](https://github.com/user-attachments/assets/66e2f61e-326e-4b85-8334-d0239edf1487)
+
+![Screenshot (404)](https://github.com/user-attachments/assets/3987ae7d-b76f-4572-9b51-d32cdbd5aded)
+
+![Screenshot (405)](https://github.com/user-attachments/assets/7adf5455-e7db-4338-9582-60aa2deb6d9f)
+
+![Screenshot (406)](https://github.com/user-attachments/assets/65ed77a1-3140-4e01-ba25-edfbedc4f646)
+
+![Screenshot (407)](https://github.com/user-attachments/assets/0dd3c5ac-9005-4b95-bb40-200c3dfb1739)
+
+![Screenshot (408)](https://github.com/user-attachments/assets/31c9489b-b898-442d-b98c-d103a9f47115)
+
+![Screenshot (409)](https://github.com/user-attachments/assets/56d57662-eca9-442e-86bf-d8873ec556be)
 
 ---
 
